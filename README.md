@@ -4,30 +4,6 @@
 
 This repository contains multiple Power BI projects analyzing various business domains such as Retail, Healthcare, Finance, E-Commerce, Manufacturing, and Banking. Each module includes datasets and Power BI reports for insightful visualizations and data-driven decision-making.
 
-## 📂 Folder Structure
-
-```
-PowerBI/
-│── MODULE1/
-│   ├── Task1/
-│   │   ├── 01_Retail_Sales_Expanded.xlsx
-│   │   ├── Task1.pbix
-│   ├── Task2/
-│   │   ├── 02_doctor-patient.xlsx
-│   │   ├── Task2.pbix
-│   ├── Task3/
-│   │   ├── 03_Financial_Performance.xlsx
-│   │   ├── Task3.pbix
-│   ├── Task4/
-│   │   ├── 04_E-Commerce.xlsx
-│   │   ├── Task4.pbix
-│   ├── Task5/
-│   │   ├── 05_Manufacturing_Control.xlsx
-│   │   ├── Task5.pbix
-│   ├── Task6/
-│   │   ├── 06_Banking_fraud_detection.xlsx
-│   │   ├── Task6.pbix
-```
 
 ## 📊 Datasets and Reports
 
