@@ -1,8 +1,7 @@
 # Power BI Practicals
 
 ## Overview
-
-This repository contains multiple Power BI projects analyzing various business domains. Each module includes datasets and Power BI reports for insightful visualizations and data-driven decision-making.
+The aim of these practicals is to develop hands-on experience with Microsoft Power BI for data analysis, visualization, and business intelligence. Students will learn how to work with real-world datasets, transform raw data into meaningful insights, and create interactive dashboards.This repository contains multiple Power BI projects analyzing various business domains. Each module includes datasets and Power BI reports for insightful visualizations and data-driven decision-making.
 
 
 ##  Datasets and Reports
