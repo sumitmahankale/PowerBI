@@ -83,7 +83,7 @@ This project is for educational and analytical purposes. Feel free to use and mo
 
 For queries or suggestions, reach out to:
 
-- **Your Name**
+- **Sumit Mahankale**
 - 📧 [sumitmahankale7777@gmail.com](mailto\:your.email@example.com)
 - 🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
 
