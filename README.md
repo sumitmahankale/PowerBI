@@ -1,6 +1,6 @@
-# Power BI Analysis Project
+# Power BI Practicals
 
-##  Project Overview
+## Overview
 
 This repository contains multiple Power BI projects analyzing various business domains such as Retail, Healthcare, Finance, E-Commerce, Manufacturing, and Banking. Each module includes datasets and Power BI reports for insightful visualizations and data-driven decision-making.
 
