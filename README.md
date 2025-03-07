@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains multiple Power BI projects analyzing various business domains such as Retail, Healthcare, Finance, E-Commerce, Manufacturing, and Banking. Each module includes datasets and Power BI reports for insightful visualizations and data-driven decision-making.
+This repository contains multiple Power BI projects analyzing various business domains. Each module includes datasets and Power BI reports for insightful visualizations and data-driven decision-making.
 
 
 ##  Datasets and Reports
